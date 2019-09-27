@@ -1,6 +1,6 @@
-# expense_planner
+# Expense_planner
 
-A new Flutter project.
+This is an app to maintain the record of the expenses in a week.
 
 ## Getting Started
 
